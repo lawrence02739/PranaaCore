@@ -18,11 +18,7 @@ module.exports = {
                    id: created.id,
                    ...created._doc
                 }
-            // }else{
-            //     return{
-            //         msg:"invalid password"
-            //     }
-            // }
+          
 
         }
     }
